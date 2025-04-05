@@ -7,7 +7,7 @@ export default defineAppConfig({
     name: 'Hugo Richard',
     job: 'Frontend Architect and Designer',
     email: 'contact@hrcd.fr',
-    phone: '(+33) 6 21 56 22 18',
+    phone: '(+33) 6 21 56 22 1111',
     picture: 'https://avatars.githubusercontent.com/u/71938701?v=4',
   },
   socials: {
